@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd Year Computer Science Engineering student with strong interests in Artificial Intelligence, Machine Learning, Quantum Computing, Data Science, and Full-Stack Development. Passionate about exploring new frontiers, building novel models, and developing innovative solutions to complex challenges.<br><br>I look forward to collaborations with ML Projects. 
+3rd Year Computer Science Engineering student with strong interests in Artificial Intelligence, Machine Learning, Quantum Computing, Data Science, and Full-Stack Development. Passionate about exploring new frontiers, building novel models, and developing innovative solutions to complex challenges.
 
 
 # 💻 Tech Stack:
